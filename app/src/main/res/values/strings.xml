@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">aplikasiku</string>
+    <string name="banking">Banking</string>
+    <string name="check_your_bank_activities">Check your bank activities</string>
+    <string name="ideas">Ideas</string>
+    <string name="add">Add</string>
+    <string name="links">links</string>
+</resources>

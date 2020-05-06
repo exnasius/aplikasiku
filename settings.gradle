@@ -1,0 +1,2 @@
+rootProject.name='aplikasiku'
+include ':app'
